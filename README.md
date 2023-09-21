@@ -5,6 +5,18 @@ Welcome to ARMAZE! In this project, we've developed an Augmented Reality (AR) ma
 
 ![Main ARMAZE Screenshot](https://github.com/sphexas/ARMAZE/assets/37029200/e45beaf7-67db-4611-b300-ffb401be05c8)
 
+# Team PA-3 - ARMAZE Project
+## Team Members:
+- Muchun Wan
+- Yujian Ao
+- Yucong Ni
+- Zhang Wenhao
+- Yangyu Gao
+- Liu Handong
+- Evelyn Soong
+- Rui Xuan Cheng
+
+
 ## Gameplay
 The game presents players with an interactive ball maze compatible with both Android and iOS platforms. By using the device's front-facing camera, the game tracks an image target, which then projects the virtual maze for players to navigate. 
 
@@ -32,3 +44,9 @@ In addition to our AR maze, we've developed a 3D mode for maze gameplay. This mo
 
 For those interested, the 3D Maze project can be accessed [here](https://github.com/Yucong-cheems/3Dmaze.git).
 
+## Important Links:
+- [**SCRUM Board**](https://jamboard.google.com/d/1JUi4LTDtoA_vL9ej0nS8axaHA-RtxI4iENenTvbTxiE/viewer?f=1)
+- [**PA-3 Sprint Record**](https://docs.google.com/document/d/17Y4ZWDIprh_TciQZ_8URz_TqZIcRUcemfQip5xITgyY/edit)
+- [**PA-3 Daily Standup**](https://docs.google.com/document/d/1YSPJD34YQ9P5rg9711q4a9p7dLEJqlqxh3uLNq9pmG8/edit)
+- [**Project Github**](https://github.com/Yucong-cheems/ARMAZE)
+- [**Project Demonstration Video**](https://youtu.be/f2ctqgdzMLc?si=eEvYEPWK5NnP6slW)
